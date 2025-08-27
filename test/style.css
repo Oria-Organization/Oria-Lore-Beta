@@ -1,0 +1,7 @@
+.section {
+    background-color: lightblue;
+    padding: 20px;        /* espace à l'intérieur de la div */
+    margin-top: 2em;      /* espace au-dessus de chaque div */
+    text-align: center;
+    font-size: 18px;
+}
