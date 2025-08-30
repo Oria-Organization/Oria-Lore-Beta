@@ -3,6 +3,3 @@ h1 {color: #ff4b4b;}
 a {color: #5ab0f7;text-decoration: none;transition: color 0.3s;}
 a:hover {text-decoration: underline;color: #ffffff;}
 .section {margin-top: 2em;}
-.back-link {display: inline-block;margin: 0 15px 10px 0;text-decoration: none;font-weight: bold;color: #00f;}
-.back-link:hover {text-decoration: underline;}
-hr {border: none;border-top: 1px solid #ccc;width: 100vw;position: relative;left: 0;}
